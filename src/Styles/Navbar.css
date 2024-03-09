@@ -1,0 +1,32 @@
+.navbar {
+	/* background-color: #282c34; */
+	background-color: #FF956E;
+	overflow: hidden;
+	color: #e4dddd;
+  }
+
+  .nav-links {
+	list-style: none;
+	padding: 0;
+  }
+
+  .nav-links li {
+	display: inline;
+  }
+
+  .nav-links li a {
+	display: inline-block;
+	color: #e4dddd;
+	text-align: center;
+	padding: 10px 	10px;
+	margin-left: 10px;
+	margin-right: 5px;
+	text-decoration: none;
+	background-color: #282c34;
+	font-size: large;
+  }
+
+  .nav-links li a:hover {
+	background-color: #b6abab;
+	color: black;
+  }

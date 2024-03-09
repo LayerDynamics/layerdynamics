@@ -1,0 +1,18 @@
+.pageContainer {
+	padding: 20px;
+	text-align: center;
+  }
+
+  a {
+	margin-top: 20px;
+	display: inline-block;
+	background-color: #a55e2b;
+	color: white;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+  }
+
+  a:hover {
+	background-color: #0056b3;
+  }

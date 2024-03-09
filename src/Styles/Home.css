@@ -1,0 +1,15 @@
+.HomeContainer {
+	max-width: 300px;
+	margin: 0 auto;
+	padding: 20px;
+	color: #e4dddd;
+  }
+
+  button {
+	margin-top: 20px;
+  }
+
+.pageContainer p {
+	text-align: center;
+	margin-bottom: 20px;
+}

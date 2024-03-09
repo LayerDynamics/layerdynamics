@@ -1,0 +1,14 @@
+@keyframes revealText {
+	from {
+	  /* Start with a full mask */
+	  transform: translateY(0%);
+	}
+	to {
+	  /* End with the mask moved up to reveal the content */
+	  transform: translateY(-100%);
+	}
+  }
+
+  #mask1 rect {
+	animation: revealText 5s linear forwards;
+  }
